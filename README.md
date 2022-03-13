@@ -12,7 +12,7 @@
 ## Bio
 <a href="https://www.linkedin.com/in/kyle-arbour-743971209/"><img align="center" src="https://github.com/arbourKyle/arbourKyle/blob/main/img/linkedin.png" alt="" width="21px"/></a>
 
-Aspiring backend developer, cutting my teeth on nodejs. I want to build practical and efficient systems that bring meaning to the world.
+Technology is amazing, I want to learn more and make stuff.
 
 </br>
 https://arbourkyle.github.io/thirdPortfoliokyletylerarbour82/
