@@ -15,10 +15,9 @@
 
 Technology is amazing, I want to learn more and make stuff.
 
-</br>
 
 https://arbourkyle.github.io/thirdPortfoliokyletylerarbour82/
-
+</br>
 
 
 ## Currently...
