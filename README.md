@@ -14,7 +14,9 @@
 <a href="https://www.linkedin.com/in/kyle-arbour-743971209/"><img align="center" src="https://github.com/arbourKyle/arbourKyle/blob/main/img/linkedin.png" alt="" width="21px"/></a>
 
 Technology is amazing, I want to learn more and make stuff.
+
 </br>
+
 https://arbourkyle.github.io/thirdPortfoliokyletylerarbour82/
 
 
@@ -26,9 +28,11 @@ Building a foundation.
 ## Future Plans
 
 Framing the house.
+
+
 </br>
 </hr>
-
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbourKyle&layout=compact)](https://github.com/arbourKyle)
 </br>
